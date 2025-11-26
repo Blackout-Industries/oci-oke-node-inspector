@@ -1,0 +1,4 @@
+kubernetes>=28.0.0
+python-dotenv>=1.0.0
+click>=8.1.0
+rich>=14.0.0
